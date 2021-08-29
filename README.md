@@ -1,5 +1,4 @@
 # SSOS-Lab-VTU
-
 6a sussy
 
 ![1a](https://user-images.githubusercontent.com/64071840/129445934-21973e9a-ac64-4101-a84c-b1a91998cfc9.PNG)
