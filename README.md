@@ -14,7 +14,6 @@
 ![8](https://user-images.githubusercontent.com/64071840/129445953-9b0ff52a-adec-4f80-9ffa-0c01b9ce669f.PNG)
 ![9](https://user-images.githubusercontent.com/64071840/129445955-db0ba05e-e736-4113-87e5-ee6e079bdfde.PNG)
 
-
 SOL- 4AX7tNDxZZJ5N9sShfTiyv8vrEQLE4cBSRXn6Bd5XBBX <br/>
 DOGE- D5Gy2WWz8jZzt3Qp3ptdpFzSaw5PC3YokN <br/>
 ETH- 0x40b2e98d1bEFA5FB4ef37314c2B24dBcD2a7660c <br/>
