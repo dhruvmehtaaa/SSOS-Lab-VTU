@@ -1,4 +1,5 @@
 # SSOS-Lab-VTU
+For the juniors :)
 6a sussy
 
 
